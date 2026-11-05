@@ -1,0 +1,20 @@
+{
+  "site_name": "CatSkin AI",
+  "footer_description": "Sistem diagnosa penyakit kulit kucing berbasis AI dengan CNN untuk hasil yang akurat dan terpercaya.",
+  "contact": {
+    "address": "Jl. Example  No. 123, Kota Example, Indonesia 40123",
+    "phone": "+62 8188888888",
+    "email": "support_example@catskin.ai"
+  },
+  "social_links": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com",
+    "youtube": "https://youtube.com"
+  },
+  "education_menu": {
+    "title": "Edukasi Kucing"
+  },
+  "copyright_text": "\u00a9 2026 CatSkin AI. All rights reserved.",
+  "credit_text": "Dibuat dengan \u2764\ufe0f untuk kesehatan kucing kesayangan Anda."
+}

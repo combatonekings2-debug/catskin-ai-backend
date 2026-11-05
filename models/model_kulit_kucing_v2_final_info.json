@@ -1,0 +1,59 @@
+{
+  "val_accuracy": 75.22,
+  "macro_f1": 74.84,
+  "weighted_f1": 75.08,
+  "total_samples": 1134,
+  "optimal_preprocessing": "Rescale 1/255 [0, 1]",
+  "class_names": [
+    "Dermatitis",
+    "Flea_Allergy",
+    "Healthy",
+    "Ringworm",
+    "Scabies"
+  ],
+  "report": {
+    "Dermatitis": {
+      "precision": 0.6590909090909091,
+      "recall": 0.6807511737089202,
+      "f1-score": 0.6697459584295612,
+      "support": 213.0
+    },
+    "Flea_Allergy": {
+      "precision": 0.7880184331797235,
+      "recall": 0.7533039647577092,
+      "f1-score": 0.7702702702702703,
+      "support": 227.0
+    },
+    "Healthy": {
+      "precision": 0.7985347985347986,
+      "recall": 0.9276595744680851,
+      "f1-score": 0.8582677165354331,
+      "support": 235.0
+    },
+    "Ringworm": {
+      "precision": 0.6244131455399061,
+      "recall": 0.588495575221239,
+      "f1-score": 0.6059225512528473,
+      "support": 226.0
+    },
+    "Scabies": {
+      "precision": 0.8815165876777251,
+      "recall": 0.7982832618025751,
+      "f1-score": 0.8378378378378378,
+      "support": 233.0
+    },
+    "accuracy": 0.7522045855379189,
+    "macro avg": {
+      "precision": 0.7503147748046124,
+      "recall": 0.7496987099917058,
+      "f1-score": 0.74840886686519,
+      "support": 1134.0
+    },
+    "weighted avg": {
+      "precision": 0.752586385753763,
+      "recall": 0.7522045855379189,
+      "f1-score": 0.7507538506896246,
+      "support": 1134.0
+    }
+  }
+}

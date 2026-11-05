@@ -1,0 +1,18 @@
+{
+  "val_accuracy": 75.22,
+  "epochs": 15,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "class_names": [
+    "Dermatitis",
+    "Flea_Allergy",
+    "Healthy",
+    "Ringworm",
+    "Scabies"
+  ],
+  "optimal_preprocessing": "Rescale 1/255 [0, 1]",
+  "active_model": "model_kulit_kucing_v2_final.keras",
+  "notebook_reference": "NAHAWAND.ipynb",
+  "created_at": "2026-10-27T00:20:00",
+  "mode": "REAL"
+}

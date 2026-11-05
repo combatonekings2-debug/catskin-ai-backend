@@ -1,0 +1,138 @@
+[
+  {
+    "image_id": "d726aa6a-2586-4d35-bb30-43eda43997a3",
+    "disease": "Scabies",
+    "confidence": 83.65,
+    "severity": "Tinggi",
+    "timestamp": "2026-11-04T13:34:37.823483",
+    "filename": "OIP (1).webp"
+  },
+  {
+    "image_id": "646fa57c-88b4-40f3-95b7-4060defa80d7",
+    "disease": "Scabies",
+    "confidence": 72.7,
+    "severity": "Tinggi",
+    "timestamp": "2026-11-04T13:27:51.765338",
+    "filename": "cat skin_Ringworm_Kurap 116.jpg"
+  },
+  {
+    "image_id": "eb43cf2d-fc7c-47e3-9ecd-78b96d43993b",
+    "disease": "Ringworm",
+    "confidence": 39.06,
+    "severity": "Sedang",
+    "timestamp": "2026-10-27T14:41:31.770753",
+    "filename": "cat skin_Ringworm_Kurap 104.jpg"
+  },
+  {
+    "image_id": "f0d1790e-464a-41c1-b9af-a8c9e30d28bb",
+    "disease": "Ringworm",
+    "confidence": 57.32,
+    "severity": "Sedang",
+    "timestamp": "2026-10-27T14:40:35.836318",
+    "filename": "cat skin_Ringworm_Kurap 033.jpg"
+  },
+  {
+    "image_id": "0ae1627f-dcd7-48af-bed7-136a63aeaf56",
+    "disease": "Dermatitis",
+    "confidence": 40.27,
+    "severity": "Sedang",
+    "timestamp": "2026-10-27T14:38:30.151596",
+    "filename": "cat skin_Ringworm_Kurap 032.jpg"
+  },
+  {
+    "image_id": "d5fe14ad-19ca-40a0-90f3-e379d5f534d1",
+    "disease": "Flea Allergy",
+    "confidence": 58.55,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T11:21:06.504487",
+    "filename": "cat skin_Dermatitis 020.jpg"
+  },
+  {
+    "image_id": "39554ae4-ed8a-4c2d-ac9f-32fe913938c9",
+    "disease": "Flea Allergy",
+    "confidence": 58.55,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T11:20:57.528047",
+    "filename": "cat skin_Dermatitis 020.jpg"
+  },
+  {
+    "image_id": "00ea68fb-066c-470d-8308-ca880fbc68c2",
+    "disease": "Flea Allergy",
+    "confidence": 58.55,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T11:20:46.903961",
+    "filename": "cat skin_Dermatitis 020.jpg"
+  },
+  {
+    "image_id": "d1ec048c-cc2f-4422-8657-4d77ef9a9215",
+    "disease": "Flea Allergy",
+    "confidence": 58.55,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T11:19:57.754174",
+    "filename": "cat skin_Dermatitis 020.jpg"
+  },
+  {
+    "image_id": "5aa012b5-7b26-4bb0-a970-312d9bb33528",
+    "disease": "Healthy",
+    "confidence": 32.39,
+    "severity": "Normal",
+    "timestamp": "2026-10-27T11:19:40.812555",
+    "filename": "images.jfif"
+  },
+  {
+    "image_id": "ca0c728e-eb1a-4ba4-b2cb-acab3654be69",
+    "disease": "Healthy",
+    "confidence": 32.39,
+    "severity": "Normal",
+    "timestamp": "2026-10-27T11:17:08.035508",
+    "filename": "images.jfif"
+  },
+  {
+    "image_id": "a5748bf3-88ee-483e-867c-61df94e180e8",
+    "disease": "Scabies",
+    "confidence": 87.08,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T11:11:41.772852",
+    "filename": "cat skin_Scabies_Kudis 035.jpg"
+  },
+  {
+    "image_id": "2751be06-1425-4234-84b2-9b3f092454f2",
+    "disease": "Scabies",
+    "confidence": 84.77,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T01:33:52.384482",
+    "filename": "cat skin_Scabies_Kudis 047.jpg"
+  },
+  {
+    "image_id": "f9958bfd-7478-489e-826c-855712089ff5",
+    "disease": "Flea Allergy",
+    "confidence": 44.18,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T01:33:29.896340",
+    "filename": "ringworm.jpg"
+  },
+  {
+    "image_id": "bbdb3d0d-049a-48f9-be6f-0eec9ced1e65",
+    "disease": "Healthy",
+    "confidence": 81.6,
+    "severity": "Normal",
+    "timestamp": "2026-10-27T00:41:58.405841",
+    "filename": "0159ccfe-d277-41b6-aa2d-d772edc510cc.jpg"
+  },
+  {
+    "image_id": "22ff239d-12af-4564-a363-a4c66119acb1",
+    "disease": "Scabies",
+    "confidence": 94.86,
+    "severity": "Tinggi",
+    "timestamp": "2026-10-27T00:41:56.703523",
+    "filename": "00fbfa52-dee4-4545-b3c2-9f6096ac8d25.jpg"
+  },
+  {
+    "image_id": "21c211d2-9981-4206-b0d4-45f50c2ec9c9",
+    "disease": "Healthy",
+    "confidence": 94.86,
+    "severity": "Normal",
+    "timestamp": "2026-10-27T00:30:18.072288",
+    "filename": "00fbfa52-dee4-4545-b3c2-9f6096ac8d25.jpg"
+  }
+]

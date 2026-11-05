@@ -1,0 +1,15 @@
+# Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Dataset lokal (tidak perlu di-upload karena model .keras sudah matang)
+dataset/
+
