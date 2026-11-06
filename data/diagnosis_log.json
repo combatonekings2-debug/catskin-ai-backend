@@ -1,5 +1,53 @@
 [
   {
+    "image_id": "ae435a5d-cf29-4bcd-a49f-45e4b6126d48",
+    "disease": "Healthy",
+    "confidence": 61.63,
+    "severity": "Normal",
+    "timestamp": "2026-11-06T01:03:41.156229",
+    "filename": "IMG_20261104_132648.jpg"
+  },
+  {
+    "image_id": "ca65eb21-eac6-462a-92f5-e9500e0cf8f7",
+    "disease": "Healthy",
+    "confidence": 79.0,
+    "severity": "Normal",
+    "timestamp": "2026-11-05T19:37:00.247878",
+    "filename": "foto-kucing-kamera-1793882215055.jpg"
+  },
+  {
+    "image_id": "cd903b90-2ecd-4dd7-bffe-8fa621dce2ad",
+    "disease": "Healthy",
+    "confidence": 43.98,
+    "severity": "Normal",
+    "timestamp": "2026-11-05T19:35:30.084831",
+    "filename": "foto-kucing-kamera-1793882128625.jpg"
+  },
+  {
+    "image_id": "2df0b2a8-8bff-45d7-b22b-9d8827bf844d",
+    "disease": "Healthy",
+    "confidence": 62.79,
+    "severity": "Normal",
+    "timestamp": "2026-11-05T19:34:22.351062",
+    "filename": "foto-kucing-kamera-1793882059440.jpg"
+  },
+  {
+    "image_id": "14fc8617-99ac-451f-bd7e-d7cc5d61eb1a",
+    "disease": "Healthy",
+    "confidence": 89.07,
+    "severity": "Normal",
+    "timestamp": "2026-11-05T19:33:32.605466",
+    "filename": "foto-kucing-kamera-1793881996820.jpg"
+  },
+  {
+    "image_id": "fb223047-ce17-40c4-a7ee-532a3f81c8a1",
+    "disease": "Healthy",
+    "confidence": 85.62,
+    "severity": "Normal",
+    "timestamp": "2026-11-05T18:10:19.707203",
+    "filename": "foto-kucing-kamera-1793877011686.jpg"
+  },
+  {
     "image_id": "d726aa6a-2586-4d35-bb30-43eda43997a3",
     "disease": "Scabies",
     "confidence": 83.65,
