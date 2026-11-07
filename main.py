@@ -898,7 +898,7 @@ async def predict(file: UploadFile = File(...)):
                 "severity":        class_data["severity"],
                 "color":           class_data["color"],
                 "scientific_name": class_data["scientific_name"],
-                "expert_reference": "drh. Ismail Antarusmara (Banjarnegara, 8 Juli 2026)",
+                "expert_reference": "Praktisi Dokter Hewan (Validasi Klinis)",
                 "all_predictions": all_predictions,
                 "disclaimer":      "Rekomendasi obat berfungsi sebagai informasi awal dan edukasi pertolongan pertama (Batasan Masalah 1.3 f)."
             },
@@ -958,7 +958,7 @@ async def predict_mock(class_id: Optional[int] = None):
             "severity": class_data["severity"],
             "color": class_data["color"],
             "scientific_name": class_data["scientific_name"],
-            "expert_reference": "drh. Ismail Antarusmara (Banjarnegara, 8 Juli 2026)",
+            "expert_reference": "Praktisi Dokter Hewan (Validasi Klinis)",
             "all_predictions": all_preds,
             "disclaimer": "Rekomendasi obat berfungsi sebagai informasi awal dan edukasi pertolongan pertama (Batasan Masalah 1.3 f)."
         },
